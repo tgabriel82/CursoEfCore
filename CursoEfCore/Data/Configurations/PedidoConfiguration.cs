@@ -1,5 +1,4 @@
 ﻿using CursoEfCore.Domain;
-using CursoEFCore.Domain;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
