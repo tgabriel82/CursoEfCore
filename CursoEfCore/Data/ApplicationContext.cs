@@ -8,6 +8,8 @@ namespace CursoEfCore.Data
     {
 
         public DbSet<Pedido> Pedidos { get; set; } // -> Inclusão no modelo de dados
+        public DbSet<Produto> Produtos  { get; set; }
+        public DbSet<Cliente> Clientes { get; set; }
 
         //pelo parametro abaixo informa o Provider Sql Server
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

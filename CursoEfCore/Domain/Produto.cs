@@ -1,6 +1,6 @@
 ﻿using CursoEfCore.ValueObjects;
 
-namespace CursoEFCore.Domain
+namespace CursoEfCore.Domain
 {
     public class Produto
     {

@@ -1,6 +1,6 @@
 ﻿
 
-using CursoEFCore.Domain;
+using CursoEfCore.Domain;
 
 namespace CursoEfCore.Domain
 {

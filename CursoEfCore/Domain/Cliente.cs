@@ -3,6 +3,8 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
+
+
 namespace CursoEfCore.Domain
 {
     [Table("Clientes")] // indica que no banco de dados a tabela é Clientes, e não Cliente
